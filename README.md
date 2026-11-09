@@ -1,5 +1,7 @@
 # ThermoQueue
 
+**[Download & run locally](LOCAL.md)** — a short guide and ready-to-run ZIP.
+
 **Compute scheduling that accounts for useful heat, not just electricity.**
 
 Flexible compute jobs create both useful work and waste heat. Buildings may need heat at different times from the cleanest grid hours. ThermoQueue couples deadline-aware workload placement with a bounded heating credit so users can inspect both outcomes in one model.
